@@ -1,5 +1,5 @@
 #Jogo do número secreto#
-Descrição do seu projeto;
+
 Este é uma projeto aplicado pela Alura, utilizando SJ, CSS e HTMl para desenvolver e praticar lógica de programação.
 
 Funcionalidades:
